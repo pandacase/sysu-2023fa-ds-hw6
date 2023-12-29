@@ -36,5 +36,6 @@ def contact(request):
     """
     return render(request, "home_application/contact.html")
 
+
 def helloworld(request):
     return render(request, "home_application/helloworld.html")
