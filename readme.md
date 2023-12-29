@@ -1,1 +1,1 @@
-开发框架2.0使用说明：https://docs.bk.tencent.com/blueapps/USAGE.html
+develop framwork docs at https://docs.bk.tencent.com/blueapps/USAGE.html
